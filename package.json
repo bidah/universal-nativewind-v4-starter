@@ -51,5 +51,7 @@
   "private": true,
   "overrides": {
     "react-refresh": "0.14.0"
-  }
-}
+  },
+  "license": "MIT",
+  "author": "Rodrigo Figueroa Gonzalez (x.com/bidah)"
+
