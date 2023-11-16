@@ -2,8 +2,12 @@ import { Text, View } from "react-native";
 
 export default function Modal() {
   return (
-    <View className="flex-1 items-center justify-center">
-      <Text className="text-3xl font-bold mb-[30px]">Modal</Text>
+    <View className="bg-gray-100 flex-1 p-3">
+      <View className="flex-1 bg-white rounded-xl pt-6 items-center justify-center">
+        <Text className="text-2xl uppercase font-bold text-gray-700 text-center">
+          Modal
+        </Text>
+      </View>
     </View>
   );
 }
