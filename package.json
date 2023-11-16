@@ -8,7 +8,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "web:build": "npx expo export -p web",
-    "web:deploy": "netlify deploy --dir dist"
+    "web:deploy": "netlify deploy --dir dist",
+    "web:deploy:prod": "netlify deploy --prod"
   },
   "jest": {
     "preset": "jest-expo"
@@ -55,4 +56,3 @@
   "license": "MIT",
   "author": "Rodrigo Figueroa Gonzalez (x.com/bidah)"
 }
-
