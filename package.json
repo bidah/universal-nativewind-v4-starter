@@ -9,7 +9,7 @@
     "web": "expo start --web",
     "web:build": "npx expo export -p web",
     "web:deploy": "netlify deploy --dir dist",
-    "web:deploy:prod": "netlify deploy --prod"
+    "web:deploy:prod": "netlify deploy --prod --dir dist"
   },
   "jest": {
     "preset": "jest-expo"
