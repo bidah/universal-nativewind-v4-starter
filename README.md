@@ -1,4 +1,4 @@
-# Nativewind v4 starter
+# ⚛️💨 Universal Nativewind v4 starter
 
 <img src="https://i.imgur.com/L3bEBHW.png" alt="Image"/>
 This starter is a barebones setup to create universal apps using expo-router and nativewind v4.
