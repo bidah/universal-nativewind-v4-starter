@@ -35,14 +35,20 @@ Login to expo account
 eas login
 ```
 
+Build for all native platforms (IOS, Android)
 ```bash
-eas build --platform all
+npm run native:build:all
+````
 
-# or  per platform
-eas build --platform ios
-eas build --platform android
+Build for IOS
+```bash
+npm run native:build:ios
+````
 
-```
+Build for Android
+```bash
+npm run native:build:android
+````
 
 More info @ <https://docs.expo.dev/build/setup/>
 
