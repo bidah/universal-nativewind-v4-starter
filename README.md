@@ -62,17 +62,17 @@ More info @ <https://docs.expo.dev/build/setup/>
 npm install -g netlify-cli
 ```
 
-Build web project to the **dist** folder:
+Build web project to the **dist** folder
 ```bash
 npm run web:build
 ```
 
-Deploy to Netlify with testing URL:
+Deploy to Netlify with testing URL
 ```bash
 npm run web:deploy
 ```
 
-Deploy to production URL:
+Deploy to production URL
 ```bash
 npm run web:deploy:prod
 ```
