@@ -45,3 +45,4 @@ expo-env.d.ts
 .cosine
 # Local Netlify folder
 .netlify
+bun.lockb
