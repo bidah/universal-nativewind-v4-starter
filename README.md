@@ -50,17 +50,27 @@ More info @ <https://docs.expo.dev/build/setup/>
 
 Besides `npm web` to start web project, you get extra npm scripts to build and deploy your app on the web with a static deploy configuration.
 
-```json
-"web:build": "npx expo export -p web",
-"web:deploy": "netlify deploy --dir dist",
-"web:deploy:prod": "netlify deploy --prod --dir dist"
-```
-
 > ℹ️ You need to install netlify CLI first to use `web:deploy` and `web:deploy:prod` scripts
 
 ```bash
 npm install -g netlify-cli
 ```
+
+Build web project to the dist folder:
+```bash
+npx run web:build
+```
+
+Deploy to Netlify with testing URL:
+```bash
+npx run web:deploy
+```
+
+Deploy to production URL:
+```bash
+npx run web:deploy:prod
+```
+
 
 ### Example deploy to Netlify
 
