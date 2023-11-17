@@ -23,7 +23,7 @@ Run with `npm start` and use `i` and `a` to launch app on expo go. `w` to launch
 npm install -g eas-cli
 ```
 
-Starter comes with initial EAS setup to build app for app platforms. You can reconfigure by running:
+Starter comes with initial EAS setup to build app for all native app platforms (IOS & Android). You can reconfigure by running:
 
 ```bash
 eas build:configure
