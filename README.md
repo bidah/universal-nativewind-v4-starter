@@ -74,7 +74,7 @@ npx run web:deploy:prod
 
 ### Example deploy to Netlify
 
-More info @ <https://universal-nativewind-v4-starter.netlify.app/>
+<https://universal-nativewind-v4-starter.netlify.app/>
 
 ## Path alias
 
