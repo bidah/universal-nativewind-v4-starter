@@ -64,17 +64,17 @@ npm install -g netlify-cli
 
 Build web project to the **dist** folder:
 ```bash
-npx run web:build
+npm run web:build
 ```
 
 Deploy to Netlify with testing URL:
 ```bash
-npx run web:deploy
+npm run web:deploy
 ```
 
 Deploy to production URL:
 ```bash
-npx run web:deploy:prod
+npm run web:deploy:prod
 ```
 
 
