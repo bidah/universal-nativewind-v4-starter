@@ -95,6 +95,7 @@ More info @ <https://docs.expo.dev/guides/typescript/#path-aliases>
 ## Expo Router
 
 Expo Router is a native and platform-optimized navigation solution built on top of React Navigation, offering deep linking, offline-first capabilities, optimization features, universal refresh and linking across Android, iOS, and web, as well as the ability to make app content discoverable to search engines.
+
 More info @ <https://docs.expo.dev/routing/introduction/>
 
 ### Typed routes
