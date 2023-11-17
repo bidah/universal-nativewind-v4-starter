@@ -56,7 +56,7 @@ Besides `npm web` to start web project, you get extra npm scripts to build and d
 npm install -g netlify-cli
 ```
 
-Build web project to the dist folder:
+Build web project to the **dist** folder:
 ```bash
 npx run web:build
 ```
