@@ -7,8 +7,8 @@ Run with `npm start` and use `i` and `a` to launch app on expo go. `w` to launch
 
 ## Includes
 
-- Expo SDK 49
-- Nativewind v4
+- Expo SDK 51
+- Nativewind v4.1.10
 - Expo Router v2
   - typed routes
 - Typescript 5
