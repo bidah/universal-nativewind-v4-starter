@@ -45,6 +45,7 @@
     "tailwindcss": "3.3.3"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
     "@babel/core": "^7.20.0",
     "@types/react": "~18.2.14",
     "compression": "^1.7.4",
