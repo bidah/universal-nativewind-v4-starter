@@ -9,7 +9,7 @@ Run with `npm start` and use `i` and `a` to launch app on expo go. `w` to launch
 
 - Expo SDK 51
 - Nativewind v4.1.10
-- Expo Router v2
+- Expo Router v3.5
   - typed routes
 - Typescript 5
 - Reanimated v3
